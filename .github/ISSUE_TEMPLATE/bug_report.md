@@ -15,7 +15,7 @@ assignees: ''
 
 <!-- The instruction to reproduce the bug. If you can't explain why here. -->
 
-## Expected behavior
+## Expected behaviour
 
 <!-- A clear and concise description of what you expected to happen. -->
 
